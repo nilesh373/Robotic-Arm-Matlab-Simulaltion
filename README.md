@@ -6,12 +6,6 @@ This project focuses on the design and control of a **2-Degree-of-Freedom (2-DOF
 
 The mechanical structure of the robotic arm was designed and modeled using **SolidWorks**. The robot will later be modeled and controlled using **MATLAB** to study its kinematics and motion.
 
-## 🦾 Robotic Arm
-
-![2-DOF Robotic Arm]("First_Robotic-Arm\CAD\Images\Robotic Arm\Robotic Arm Final.png")
-
-*2-DOF robotic arm designed using SolidWorks.*
-
 ## 🎓 Educational Objectives
 
 The main purpose of this project is to understand the fundamental concepts of robotic manipulators, including:
