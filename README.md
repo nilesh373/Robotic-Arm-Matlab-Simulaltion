@@ -8,7 +8,7 @@ The mechanical structure of the robotic arm was designed and modeled using **Sol
 
 ## 🦾 Robotic Arm
 
-![2-DOF Robotic Arm]("Robotic Arm Final.png")
+![2-DOF Robotic Arm]("First_Robotic-Arm\CAD\Images\Robotic Arm\Robotic Arm Final.png")
 
 *2-DOF robotic arm designed using SolidWorks.*
 
